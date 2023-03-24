@@ -1,0 +1,4 @@
+com\example\howtodoinjava\springeurekaclientstudentservice\domain\Student.class
+com\example\howtodoinjava\springeurekaclientstudentservice\SpringEurekaClientStudentServiceApplication.class
+com\example\howtodoinjava\springeurekaclientstudentservice\util\SpringEurekaClientStudentServiceInfoContributor.class
+com\example\howtodoinjava\springeurekaclientstudentservice\controller\StudentServiceController.class
